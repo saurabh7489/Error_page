@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+.background{
+    height: 100vh;
+    width: 100vw;
+    background-color: antiquewhite;
+}
+.wire{
+    height: 200px;
+    width: 300px;
+    border-radius: 50%;
+    border-top: 2px solid black;
+
+}
+.secndwire{
+    
+ height: 200px;
+    width: 300px;
+    border-radius: 50%;
+    border-bottom: 2px solid black;
+}
